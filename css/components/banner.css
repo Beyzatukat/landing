@@ -1,0 +1,12 @@
+.banner {
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 500px;
+  color: white;
+}
+.banner p{
+  margin-bottom: 50px;
+}
